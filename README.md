@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning development with java.
 - 📫 pursuing my b.tech in JSS academy of technical education ,Noida
-
+- my full name is satyam singh.
 
 <!---
 Satyam258/Satyam258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
