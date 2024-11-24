@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Satyam258
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning development with java.
+- 🌱 I’m currently learning fullstack dev.
 - 📫 pursuing my b.tech in JSS academy of technical education ,Noida
 - my full name is satyam singh.
 
